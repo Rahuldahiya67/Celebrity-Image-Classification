@@ -1,5 +1,4 @@
 # Celebrity-Image-Classification
-# Image Classification Model README
 
 ## Model Summary
 
